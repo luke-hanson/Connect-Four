@@ -1,0 +1,12 @@
+c:\users\luke\documents\visual studio 2013\Projects\Connect Four\Connect Four\bin\Debug\Connect Four.exe.config
+c:\users\luke\documents\visual studio 2013\Projects\Connect Four\Connect Four\bin\Debug\Connect Four.exe
+c:\users\luke\documents\visual studio 2013\Projects\Connect Four\Connect Four\bin\Debug\Connect Four.pdb
+c:\users\luke\documents\visual studio 2013\Projects\Connect Four\Connect Four\obj\Debug\Connect Four.csprojResolveAssemblyReference.cache
+c:\users\luke\documents\visual studio 2013\Projects\Connect Four\Connect Four\obj\Debug\Connect Four.exe
+c:\users\luke\documents\visual studio 2013\Projects\Connect Four\Connect Four\obj\Debug\Connect Four.pdb
+D:\School\Connect Four\Connect Four\bin\Debug\Connect Four.exe.config
+D:\School\Connect Four\Connect Four\bin\Debug\Connect Four.exe
+D:\School\Connect Four\Connect Four\bin\Debug\Connect Four.pdb
+D:\School\Connect Four\Connect Four\obj\Debug\Connect Four.csprojResolveAssemblyReference.cache
+D:\School\Connect Four\Connect Four\obj\Debug\Connect Four.exe
+D:\School\Connect Four\Connect Four\obj\Debug\Connect Four.pdb
